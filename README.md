@@ -1,4 +1,4 @@
-# not_sqlite
+# note_sqlite
 
 A new Flutter project.
 
